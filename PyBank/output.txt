@@ -2,11 +2,11 @@ Financial Analysis
 
 ------------------------------------------------------------
 
-Sum total of profit and losses:  $38,382,578.00
+Sum total of profit and losses:  $37,514,694.00
 
-Total number of months:  86
+Total number of months:  85
 
-Average change:  $86.00
+Average change:  $-2,315.12
 
 Greatest Increase in Profits:  $1,926,159.00   Feb-2012
 
